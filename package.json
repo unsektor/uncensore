@@ -1,0 +1,20 @@
+{
+  "name": "uncensore",
+  "version": "1.0.0",
+  "description": "Tiny library to reveal uncensored thoughts",
+  "homepage": "https://проекты.unsektor.com/uncensore.js/",
+  "main": "uncensore.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "uncensore",
+    "censore"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/unsektor/uncensore/"
+  },
+  "author": "Михаил Драгункин <contact@unsektor.com>",
+  "license": "ISC"
+}
